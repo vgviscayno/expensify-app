@@ -1,4 +1,3 @@
-import { start } from 'live-server';
 import React from 'react';
 import { DateRangePicker } from 'react-dates';
 import { connect } from 'react-redux';
